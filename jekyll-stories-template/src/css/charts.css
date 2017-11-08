@@ -1,0 +1,102 @@
+.domain, .tick > line {
+  stroke: darkblue;
+}
+
+.tick > text, .ticks > text {
+  fill: darkblue;
+}
+
+.project-circle, .module-circle {
+  fill: rgba(128, 128, 128, 0.4);
+}
+
+.projects-labels, .modules-labels, .axis-labels, .slider text {
+  font-size: 0.75em;
+}
+
+.ticks > text {
+  font-size: 1.05em;
+}
+
+.axis-labels {
+  fill: darkblue;
+  font-weight: bold;
+}
+
+.tooltip {
+  position: absolute;
+  font-size: 0.6em;
+  padding: 8px;
+  pointer-events: none;
+  background-color: antiquewhite;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+.ticks {
+  font: 10px sans-serif;
+}
+
+.track,
+.track-inset,
+.track-overlay {
+  stroke-linecap: round;
+}
+
+.track {
+  stroke: #000;
+  stroke-opacity: 0.3;
+  stroke-width: 10px;
+}
+
+.track-inset {
+  stroke: #ddd;
+  stroke-width: 8px;
+}
+
+.track-overlay {
+  pointer-events: stroke;
+  stroke-width: 50px;
+  stroke: transparent;
+  cursor: crosshair;
+}
+
+.handle {
+  fill: #fff;
+  stroke: #000;
+  stroke-opacity: 0.5;
+  stroke-width: 1.25px;
+}
+
+.country-name {
+  margin: 0 !important;
+}
+
+.legend-complexity-line-chart {
+  margin-left: 50px;
+}
+
+.legend-complexity-line-chart > div {
+  float: left;
+  font-size: 0.75em;
+  margin-right: 2em;
+}
+
+.key-dot {
+  display: inline-block;
+  height: 10px;
+  margin-right: .5em;
+  width: 10px;
+}
+
+.size {
+  background: #ff9999;
+}
+
+.coefficient {
+  background: #80b3ff;
+}
+
+.complexityScore {
+  background: rgba(0, 0, 0, 0.5);
+}

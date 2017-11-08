@@ -1,0 +1,1524 @@
+{
+  "projectName": "spring-boot",
+  "modules": [
+    {
+      "moduleName": "spring-boot-dependencies",
+      "stats": {
+        "totalNumberOfCommits": 74,
+        "totalAddedLines": 337,
+        "totalDeletedLines": 258,
+        "totalCommitsSize": 595,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 0.47,
+        "averageSizePerCommit": 8.04
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-11-03",
+          "numberOfCommits": 1,
+          "addedLines": 0,
+          "deletedLines": 5,
+          "totalSize": 5
+        },
+        {
+          "date": "2017-11-02",
+          "numberOfCommits": 2,
+          "addedLines": 1,
+          "deletedLines": 7,
+          "totalSize": 8
+        },
+        {
+          "date": "2017-11-01",
+          "numberOfCommits": 2,
+          "addedLines": 10,
+          "deletedLines": 0,
+          "totalSize": 10
+        },
+        {
+          "date": "2017-10-31",
+          "numberOfCommits": 4,
+          "addedLines": 5,
+          "deletedLines": 5,
+          "totalSize": 10
+        },
+        {
+          "date": "2017-10-30",
+          "numberOfCommits": 4,
+          "addedLines": 4,
+          "deletedLines": 4,
+          "totalSize": 8
+        },
+        {
+          "date": "2017-10-28",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-27",
+          "numberOfCommits": 9,
+          "addedLines": 13,
+          "deletedLines": 8,
+          "totalSize": 21
+        },
+        {
+          "date": "2017-10-26",
+          "numberOfCommits": 1,
+          "addedLines": 25,
+          "deletedLines": 25,
+          "totalSize": 50
+        },
+        {
+          "date": "2017-10-25",
+          "numberOfCommits": 2,
+          "addedLines": 6,
+          "deletedLines": 1,
+          "totalSize": 7
+        },
+        {
+          "date": "2017-10-06",
+          "numberOfCommits": 1,
+          "addedLines": 21,
+          "deletedLines": 0,
+          "totalSize": 21
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 3,
+          "addedLines": 3,
+          "deletedLines": 3,
+          "totalSize": 6
+        },
+        {
+          "date": "2017-10-23",
+          "numberOfCommits": 3,
+          "addedLines": 7,
+          "deletedLines": 7,
+          "totalSize": 14
+        },
+        {
+          "date": "2017-10-21",
+          "numberOfCommits": 9,
+          "addedLines": 8,
+          "deletedLines": 13,
+          "totalSize": 21
+        },
+        {
+          "date": "2017-10-20",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-18",
+          "numberOfCommits": 6,
+          "addedLines": 6,
+          "deletedLines": 6,
+          "totalSize": 12
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 2,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-12",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-10",
+          "numberOfCommits": 15,
+          "addedLines": 15,
+          "deletedLines": 15,
+          "totalSize": 30
+        },
+        {
+          "date": "2017-10-07",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-05",
+          "numberOfCommits": 3,
+          "addedLines": 7,
+          "deletedLines": 2,
+          "totalSize": 9
+        },
+        {
+          "date": "2017-08-04",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 2,
+          "addedLines": 199,
+          "deletedLines": 150,
+          "totalSize": 349
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-actuator-autoconfigure",
+      "stats": {
+        "totalNumberOfCommits": 157,
+        "totalAddedLines": 3953,
+        "totalDeletedLines": 826,
+        "totalCommitsSize": 4779,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 0.99,
+        "averageSizePerCommit": 30.44
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-11-03",
+          "numberOfCommits": 48,
+          "addedLines": 2698,
+          "deletedLines": 533,
+          "totalSize": 3231
+        },
+        {
+          "date": "2017-11-02",
+          "numberOfCommits": 22,
+          "addedLines": 40,
+          "deletedLines": 41,
+          "totalSize": 81
+        },
+        {
+          "date": "2017-11-01",
+          "numberOfCommits": 8,
+          "addedLines": 34,
+          "deletedLines": 37,
+          "totalSize": 71
+        },
+        {
+          "date": "2017-10-30",
+          "numberOfCommits": 6,
+          "addedLines": 362,
+          "deletedLines": 82,
+          "totalSize": 444
+        },
+        {
+          "date": "2017-10-26",
+          "numberOfCommits": 7,
+          "addedLines": 121,
+          "deletedLines": 5,
+          "totalSize": 126
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 5,
+          "addedLines": 10,
+          "deletedLines": 10,
+          "totalSize": 20
+        },
+        {
+          "date": "2017-10-02",
+          "numberOfCommits": 2,
+          "addedLines": 3,
+          "deletedLines": 4,
+          "totalSize": 7
+        },
+        {
+          "date": "2017-10-19",
+          "numberOfCommits": 4,
+          "addedLines": 59,
+          "deletedLines": 7,
+          "totalSize": 66
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 32,
+          "addedLines": 247,
+          "deletedLines": 75,
+          "totalSize": 322
+        },
+        {
+          "date": "2017-10-16",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-13",
+          "numberOfCommits": 2,
+          "addedLines": 8,
+          "deletedLines": 8,
+          "totalSize": 16
+        },
+        {
+          "date": "2017-10-11",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-05",
+          "numberOfCommits": 18,
+          "addedLines": 366,
+          "deletedLines": 14,
+          "totalSize": 380
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 7,
+          "totalSize": 9
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-actuator",
+      "stats": {
+        "totalNumberOfCommits": 117,
+        "totalAddedLines": 1359,
+        "totalDeletedLines": 757,
+        "totalCommitsSize": 2116,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 0.74,
+        "averageSizePerCommit": 18.09
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-11-03",
+          "numberOfCommits": 4,
+          "addedLines": 224,
+          "deletedLines": 138,
+          "totalSize": 362
+        },
+        {
+          "date": "2017-11-01",
+          "numberOfCommits": 11,
+          "addedLines": 57,
+          "deletedLines": 51,
+          "totalSize": 108
+        },
+        {
+          "date": "2017-11-02",
+          "numberOfCommits": 16,
+          "addedLines": 175,
+          "deletedLines": 186,
+          "totalSize": 361
+        },
+        {
+          "date": "2017-10-30",
+          "numberOfCommits": 4,
+          "addedLines": 35,
+          "deletedLines": 9,
+          "totalSize": 44
+        },
+        {
+          "date": "2017-10-26",
+          "numberOfCommits": 10,
+          "addedLines": 79,
+          "deletedLines": 15,
+          "totalSize": 94
+        },
+        {
+          "date": "2017-10-18",
+          "numberOfCommits": 4,
+          "addedLines": 113,
+          "deletedLines": 21,
+          "totalSize": 134
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 6,
+          "addedLines": 14,
+          "deletedLines": 16,
+          "totalSize": 30
+        },
+        {
+          "date": "2017-10-02",
+          "numberOfCommits": 7,
+          "addedLines": 15,
+          "deletedLines": 16,
+          "totalSize": 31
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 15,
+          "addedLines": 269,
+          "deletedLines": 123,
+          "totalSize": 392
+        },
+        {
+          "date": "2017-10-16",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-13",
+          "numberOfCommits": 2,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-11",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-10",
+          "numberOfCommits": 26,
+          "addedLines": 90,
+          "deletedLines": 80,
+          "totalSize": 170
+        },
+        {
+          "date": "2017-10-06",
+          "numberOfCommits": 2,
+          "addedLines": 104,
+          "deletedLines": 30,
+          "totalSize": 134
+        },
+        {
+          "date": "2017-10-04",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-05",
+          "numberOfCommits": 4,
+          "addedLines": 172,
+          "deletedLines": 57,
+          "totalSize": 229
+        },
+        {
+          "date": "2017-10-01",
+          "numberOfCommits": 2,
+          "addedLines": 4,
+          "deletedLines": 2,
+          "totalSize": 6
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 7,
+          "totalSize": 9
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-docs",
+      "stats": {
+        "totalNumberOfCommits": 102,
+        "totalAddedLines": 7014,
+        "totalDeletedLines": 6645,
+        "totalCommitsSize": 13659,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 0.64,
+        "averageSizePerCommit": 133.91
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-11-02",
+          "numberOfCommits": 12,
+          "addedLines": 1026,
+          "deletedLines": 998,
+          "totalSize": 2024
+        },
+        {
+          "date": "2017-11-03",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 0,
+          "totalSize": 1
+        },
+        {
+          "date": "2016-07-05",
+          "numberOfCommits": 2,
+          "addedLines": 13,
+          "deletedLines": 1,
+          "totalSize": 14
+        },
+        {
+          "date": "2017-10-31",
+          "numberOfCommits": 5,
+          "addedLines": 2199,
+          "deletedLines": 2128,
+          "totalSize": 4327
+        },
+        {
+          "date": "2017-10-28",
+          "numberOfCommits": 5,
+          "addedLines": 225,
+          "deletedLines": 201,
+          "totalSize": 426
+        },
+        {
+          "date": "2017-10-30",
+          "numberOfCommits": 12,
+          "addedLines": 657,
+          "deletedLines": 603,
+          "totalSize": 1260
+        },
+        {
+          "date": "2017-11-01",
+          "numberOfCommits": 11,
+          "addedLines": 490,
+          "deletedLines": 476,
+          "totalSize": 966
+        },
+        {
+          "date": "2017-10-27",
+          "numberOfCommits": 2,
+          "addedLines": 1634,
+          "deletedLines": 1578,
+          "totalSize": 3212
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 2,
+          "addedLines": 378,
+          "deletedLines": 376,
+          "totalSize": 754
+        },
+        {
+          "date": "2017-10-26",
+          "numberOfCommits": 3,
+          "addedLines": 25,
+          "deletedLines": 3,
+          "totalSize": 28
+        },
+        {
+          "date": "2017-10-23",
+          "numberOfCommits": 2,
+          "addedLines": 26,
+          "deletedLines": 27,
+          "totalSize": 53
+        },
+        {
+          "date": "2017-10-19",
+          "numberOfCommits": 7,
+          "addedLines": 10,
+          "deletedLines": 10,
+          "totalSize": 20
+        },
+        {
+          "date": "2017-10-20",
+          "numberOfCommits": 2,
+          "addedLines": 20,
+          "deletedLines": 10,
+          "totalSize": 30
+        },
+        {
+          "date": "2017-10-16",
+          "numberOfCommits": 2,
+          "addedLines": 89,
+          "deletedLines": 18,
+          "totalSize": 107
+        },
+        {
+          "date": "2017-10-13",
+          "numberOfCommits": 5,
+          "addedLines": 39,
+          "deletedLines": 4,
+          "totalSize": 43
+        },
+        {
+          "date": "2017-10-12",
+          "numberOfCommits": 7,
+          "addedLines": 56,
+          "deletedLines": 112,
+          "totalSize": 168
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 3,
+          "addedLines": 41,
+          "deletedLines": 37,
+          "totalSize": 78
+        },
+        {
+          "date": "2017-10-11",
+          "numberOfCommits": 10,
+          "addedLines": 19,
+          "deletedLines": 19,
+          "totalSize": 38
+        },
+        {
+          "date": "2017-10-10",
+          "numberOfCommits": 7,
+          "addedLines": 7,
+          "deletedLines": 7,
+          "totalSize": 14
+        },
+        {
+          "date": "2017-08-04",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 1,
+          "addedLines": 57,
+          "deletedLines": 35,
+          "totalSize": 92
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-tools",
+      "stats": {
+        "totalNumberOfCommits": 268,
+        "totalAddedLines": 1048,
+        "totalDeletedLines": 575,
+        "totalCommitsSize": 1623,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 1.69,
+        "averageSizePerCommit": 6.06
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-10-28",
+          "numberOfCommits": 1,
+          "addedLines": 0,
+          "deletedLines": 0,
+          "totalSize": 0
+        },
+        {
+          "date": "2017-11-02",
+          "numberOfCommits": 7,
+          "addedLines": 78,
+          "deletedLines": 16,
+          "totalSize": 94
+        },
+        {
+          "date": "2017-11-01",
+          "numberOfCommits": 2,
+          "addedLines": 4,
+          "deletedLines": 5,
+          "totalSize": 9
+        },
+        {
+          "date": "2017-10-30",
+          "numberOfCommits": 8,
+          "addedLines": 171,
+          "deletedLines": 7,
+          "totalSize": 178
+        },
+        {
+          "date": "2017-10-27",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-26",
+          "numberOfCommits": 2,
+          "addedLines": 30,
+          "deletedLines": 10,
+          "totalSize": 40
+        },
+        {
+          "date": "2017-10-25",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 9,
+          "addedLines": 25,
+          "deletedLines": 23,
+          "totalSize": 48
+        },
+        {
+          "date": "2017-10-02",
+          "numberOfCommits": 6,
+          "addedLines": 11,
+          "deletedLines": 11,
+          "totalSize": 22
+        },
+        {
+          "date": "2017-10-19",
+          "numberOfCommits": 52,
+          "addedLines": 330,
+          "deletedLines": 91,
+          "totalSize": 421
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 1,
+          "totalSize": 3
+        },
+        {
+          "date": "2017-10-16",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-13",
+          "numberOfCommits": 2,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-11",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-04",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-10",
+          "numberOfCommits": 154,
+          "addedLines": 154,
+          "deletedLines": 154,
+          "totalSize": 308
+        },
+        {
+          "date": "2017-10-09",
+          "numberOfCommits": 1,
+          "addedLines": 11,
+          "deletedLines": 0,
+          "totalSize": 11
+        },
+        {
+          "date": "2017-10-05",
+          "numberOfCommits": 3,
+          "addedLines": 6,
+          "deletedLines": 2,
+          "totalSize": 8
+        },
+        {
+          "date": "2017-06-13",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 0,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 14,
+          "addedLines": 216,
+          "deletedLines": 247,
+          "totalSize": 463
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-test",
+      "stats": {
+        "totalNumberOfCommits": 134,
+        "totalAddedLines": 173,
+        "totalDeletedLines": 350,
+        "totalCommitsSize": 523,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 0.84,
+        "averageSizePerCommit": 3.9
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-10-21",
+          "numberOfCommits": 1,
+          "addedLines": 10,
+          "deletedLines": 1,
+          "totalSize": 11
+        },
+        {
+          "date": "2017-11-01",
+          "numberOfCommits": 4,
+          "addedLines": 4,
+          "deletedLines": 4,
+          "totalSize": 8
+        },
+        {
+          "date": "2017-10-02",
+          "numberOfCommits": 3,
+          "addedLines": 4,
+          "deletedLines": 4,
+          "totalSize": 8
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-03",
+          "numberOfCommits": 6,
+          "addedLines": 30,
+          "deletedLines": 210,
+          "totalSize": 240
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-16",
+          "numberOfCommits": 4,
+          "addedLines": 8,
+          "deletedLines": 7,
+          "totalSize": 15
+        },
+        {
+          "date": "2017-10-13",
+          "numberOfCommits": 4,
+          "addedLines": 3,
+          "deletedLines": 4,
+          "totalSize": 7
+        },
+        {
+          "date": "2017-10-10",
+          "numberOfCommits": 106,
+          "addedLines": 106,
+          "deletedLines": 106,
+          "totalSize": 212
+        },
+        {
+          "date": "2017-10-09",
+          "numberOfCommits": 3,
+          "addedLines": 2,
+          "deletedLines": 3,
+          "totalSize": 5
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 7,
+          "totalSize": 9
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot",
+      "stats": {
+        "totalNumberOfCommits": 298,
+        "totalAddedLines": 1825,
+        "totalDeletedLines": 786,
+        "totalCommitsSize": 2611,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 1.87,
+        "averageSizePerCommit": 8.76
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-11-03",
+          "numberOfCommits": 8,
+          "addedLines": 45,
+          "deletedLines": 13,
+          "totalSize": 58
+        },
+        {
+          "date": "2017-11-02",
+          "numberOfCommits": 4,
+          "addedLines": 19,
+          "deletedLines": 65,
+          "totalSize": 84
+        },
+        {
+          "date": "2016-07-05",
+          "numberOfCommits": 5,
+          "addedLines": 109,
+          "deletedLines": 29,
+          "totalSize": 138
+        },
+        {
+          "date": "2017-10-28",
+          "numberOfCommits": 3,
+          "addedLines": 84,
+          "deletedLines": 9,
+          "totalSize": 93
+        },
+        {
+          "date": "2017-11-01",
+          "numberOfCommits": 8,
+          "addedLines": 34,
+          "deletedLines": 33,
+          "totalSize": 67
+        },
+        {
+          "date": "2017-10-30",
+          "numberOfCommits": 5,
+          "addedLines": 157,
+          "deletedLines": 6,
+          "totalSize": 163
+        },
+        {
+          "date": "2017-10-27",
+          "numberOfCommits": 1,
+          "addedLines": 5,
+          "deletedLines": 49,
+          "totalSize": 54
+        },
+        {
+          "date": "2017-10-25",
+          "numberOfCommits": 10,
+          "addedLines": 439,
+          "deletedLines": 60,
+          "totalSize": 499
+        },
+        {
+          "date": "2017-10-26",
+          "numberOfCommits": 3,
+          "addedLines": 82,
+          "deletedLines": 82,
+          "totalSize": 164
+        },
+        {
+          "date": "2017-10-20",
+          "numberOfCommits": 3,
+          "addedLines": 254,
+          "deletedLines": 0,
+          "totalSize": 254
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 18,
+          "addedLines": 58,
+          "deletedLines": 115,
+          "totalSize": 173
+        },
+        {
+          "date": "2017-10-02",
+          "numberOfCommits": 14,
+          "addedLines": 33,
+          "deletedLines": 33,
+          "totalSize": 66
+        },
+        {
+          "date": "2017-10-19",
+          "numberOfCommits": 1,
+          "addedLines": 19,
+          "deletedLines": 0,
+          "totalSize": 19
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 11,
+          "addedLines": 57,
+          "deletedLines": 21,
+          "totalSize": 78
+        },
+        {
+          "date": "2017-10-16",
+          "numberOfCommits": 5,
+          "addedLines": 7,
+          "deletedLines": 7,
+          "totalSize": 14
+        },
+        {
+          "date": "2017-07-12",
+          "numberOfCommits": 4,
+          "addedLines": 23,
+          "deletedLines": 0,
+          "totalSize": 23
+        },
+        {
+          "date": "2017-10-12",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-11",
+          "numberOfCommits": 10,
+          "addedLines": 154,
+          "deletedLines": 70,
+          "totalSize": 224
+        },
+        {
+          "date": "2017-09-20",
+          "numberOfCommits": 2,
+          "addedLines": 45,
+          "deletedLines": 7,
+          "totalSize": 52
+        },
+        {
+          "date": "2017-10-10",
+          "numberOfCommits": 178,
+          "addedLines": 186,
+          "deletedLines": 177,
+          "totalSize": 363
+        },
+        {
+          "date": "2017-10-09",
+          "numberOfCommits": 3,
+          "addedLines": 11,
+          "deletedLines": 1,
+          "totalSize": 12
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 7,
+          "totalSize": 9
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-parent",
+      "stats": {
+        "totalNumberOfCommits": 7,
+        "totalAddedLines": 115,
+        "totalDeletedLines": 328,
+        "totalCommitsSize": 443,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 0.04,
+        "averageSizePerCommit": 63.29
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-11-03",
+          "numberOfCommits": 1,
+          "addedLines": 6,
+          "deletedLines": 1,
+          "totalSize": 7
+        },
+        {
+          "date": "2017-10-30",
+          "numberOfCommits": 1,
+          "addedLines": 0,
+          "deletedLines": 5,
+          "totalSize": 5
+        },
+        {
+          "date": "2017-10-26",
+          "numberOfCommits": 1,
+          "addedLines": 8,
+          "deletedLines": 0,
+          "totalSize": 8
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-08-04",
+          "numberOfCommits": 1,
+          "addedLines": 3,
+          "deletedLines": 3,
+          "totalSize": 6
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 2,
+          "addedLines": 97,
+          "deletedLines": 318,
+          "totalSize": 415
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-autoconfigure",
+      "stats": {
+        "totalNumberOfCommits": 485,
+        "totalAddedLines": 3668,
+        "totalDeletedLines": 2863,
+        "totalCommitsSize": 6531,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 3.05,
+        "averageSizePerCommit": 13.47
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-11-02",
+          "numberOfCommits": 18,
+          "addedLines": 23,
+          "deletedLines": 1128,
+          "totalSize": 1151
+        },
+        {
+          "date": "2017-10-28",
+          "numberOfCommits": 3,
+          "addedLines": 6,
+          "deletedLines": 7,
+          "totalSize": 13
+        },
+        {
+          "date": "2017-10-30",
+          "numberOfCommits": 34,
+          "addedLines": 845,
+          "deletedLines": 98,
+          "totalSize": 943
+        },
+        {
+          "date": "2017-11-01",
+          "numberOfCommits": 25,
+          "addedLines": 99,
+          "deletedLines": 118,
+          "totalSize": 217
+        },
+        {
+          "date": "2017-10-31",
+          "numberOfCommits": 3,
+          "addedLines": 53,
+          "deletedLines": 12,
+          "totalSize": 65
+        },
+        {
+          "date": "2017-09-25",
+          "numberOfCommits": 3,
+          "addedLines": 37,
+          "deletedLines": 11,
+          "totalSize": 48
+        },
+        {
+          "date": "2017-10-29",
+          "numberOfCommits": 4,
+          "addedLines": 6,
+          "deletedLines": 9,
+          "totalSize": 15
+        },
+        {
+          "date": "2017-10-27",
+          "numberOfCommits": 3,
+          "addedLines": 15,
+          "deletedLines": 81,
+          "totalSize": 96
+        },
+        {
+          "date": "2017-10-26",
+          "numberOfCommits": 34,
+          "addedLines": 278,
+          "deletedLines": 117,
+          "totalSize": 395
+        },
+        {
+          "date": "2017-10-25",
+          "numberOfCommits": 4,
+          "addedLines": 34,
+          "deletedLines": 54,
+          "totalSize": 88
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 23,
+          "addedLines": 72,
+          "deletedLines": 59,
+          "totalSize": 131
+        },
+        {
+          "date": "2017-10-02",
+          "numberOfCommits": 19,
+          "addedLines": 24,
+          "deletedLines": 24,
+          "totalSize": 48
+        },
+        {
+          "date": "2017-10-23",
+          "numberOfCommits": 2,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-20",
+          "numberOfCommits": 12,
+          "addedLines": 37,
+          "deletedLines": 93,
+          "totalSize": 130
+        },
+        {
+          "date": "2017-10-19",
+          "numberOfCommits": 14,
+          "addedLines": 191,
+          "deletedLines": 56,
+          "totalSize": 247
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 18,
+          "addedLines": 290,
+          "deletedLines": 207,
+          "totalSize": 497
+        },
+        {
+          "date": "2017-10-16",
+          "numberOfCommits": 20,
+          "addedLines": 1209,
+          "deletedLines": 8,
+          "totalSize": 1217
+        },
+        {
+          "date": "2017-10-13",
+          "numberOfCommits": 5,
+          "addedLines": 10,
+          "deletedLines": 20,
+          "totalSize": 30
+        },
+        {
+          "date": "2017-07-12",
+          "numberOfCommits": 1,
+          "addedLines": 23,
+          "deletedLines": 0,
+          "totalSize": 23
+        },
+        {
+          "date": "2017-10-10",
+          "numberOfCommits": 217,
+          "addedLines": 314,
+          "deletedLines": 266,
+          "totalSize": 580
+        },
+        {
+          "date": "2017-10-08",
+          "numberOfCommits": 3,
+          "addedLines": 18,
+          "deletedLines": 13,
+          "totalSize": 31
+        },
+        {
+          "date": "2017-10-07",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 4,
+          "totalSize": 5
+        },
+        {
+          "date": "2017-10-06",
+          "numberOfCommits": 11,
+          "addedLines": 19,
+          "deletedLines": 450,
+          "totalSize": 469
+        },
+        {
+          "date": "2017-10-04",
+          "numberOfCommits": 5,
+          "addedLines": 59,
+          "deletedLines": 3,
+          "totalSize": 62
+        },
+        {
+          "date": "2017-10-05",
+          "numberOfCommits": 2,
+          "addedLines": 1,
+          "deletedLines": 16,
+          "totalSize": 17
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 7,
+          "totalSize": 9
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-cli",
+      "stats": {
+        "totalNumberOfCommits": 109,
+        "totalAddedLines": 163,
+        "totalDeletedLines": 274,
+        "totalCommitsSize": 437,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 0.69,
+        "averageSizePerCommit": 4.01
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-11-02",
+          "numberOfCommits": 5,
+          "addedLines": 0,
+          "deletedLines": 118,
+          "totalSize": 118
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 2,
+          "addedLines": 4,
+          "deletedLines": 4,
+          "totalSize": 8
+        },
+        {
+          "date": "2017-10-02",
+          "numberOfCommits": 5,
+          "addedLines": 5,
+          "deletedLines": 5,
+          "totalSize": 10
+        },
+        {
+          "date": "2017-10-21",
+          "numberOfCommits": 6,
+          "addedLines": 23,
+          "deletedLines": 23,
+          "totalSize": 46
+        },
+        {
+          "date": "2017-10-19",
+          "numberOfCommits": 1,
+          "addedLines": 3,
+          "deletedLines": 3,
+          "totalSize": 6
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-16",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-10",
+          "numberOfCommits": 86,
+          "addedLines": 86,
+          "deletedLines": 86,
+          "totalSize": 172
+        },
+        {
+          "date": "2017-10-06",
+          "numberOfCommits": 1,
+          "addedLines": 0,
+          "deletedLines": 4,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 1,
+          "addedLines": 39,
+          "deletedLines": 28,
+          "totalSize": 67
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-starters",
+      "stats": {
+        "totalNumberOfCommits": 69,
+        "totalAddedLines": 403,
+        "totalDeletedLines": 738,
+        "totalCommitsSize": 1141,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 0.43,
+        "averageSizePerCommit": 16.54
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-11-02",
+          "numberOfCommits": 3,
+          "addedLines": 0,
+          "deletedLines": 54,
+          "totalSize": 54
+        },
+        {
+          "date": "2017-11-01",
+          "numberOfCommits": 2,
+          "addedLines": 8,
+          "deletedLines": 0,
+          "totalSize": 8
+        },
+        {
+          "date": "2017-10-26",
+          "numberOfCommits": 1,
+          "addedLines": 24,
+          "deletedLines": 0,
+          "totalSize": 24
+        },
+        {
+          "date": "2017-10-25",
+          "numberOfCommits": 1,
+          "addedLines": 3,
+          "deletedLines": 0,
+          "totalSize": 3
+        },
+        {
+          "date": "2017-10-20",
+          "numberOfCommits": 3,
+          "addedLines": 0,
+          "deletedLines": 36,
+          "totalSize": 36
+        },
+        {
+          "date": "2017-10-19",
+          "numberOfCommits": 2,
+          "addedLines": 0,
+          "deletedLines": 24,
+          "totalSize": 24
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 57,
+          "addedLines": 368,
+          "deletedLines": 624,
+          "totalSize": 992
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-devtools",
+      "stats": {
+        "totalNumberOfCommits": 89,
+        "totalAddedLines": 96,
+        "totalDeletedLines": 105,
+        "totalCommitsSize": 201,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 0.56,
+        "averageSizePerCommit": 2.26
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-10-31",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 4,
+          "totalSize": 5
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-02",
+          "numberOfCommits": 4,
+          "addedLines": 9,
+          "deletedLines": 10,
+          "totalSize": 19
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 1,
+          "addedLines": 1,
+          "deletedLines": 1,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-16",
+          "numberOfCommits": 2,
+          "addedLines": 2,
+          "deletedLines": 2,
+          "totalSize": 4
+        },
+        {
+          "date": "2017-10-10",
+          "numberOfCommits": 79,
+          "addedLines": 79,
+          "deletedLines": 79,
+          "totalSize": 158
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 7,
+          "totalSize": 9
+        }
+      ]
+    },
+    {
+      "moduleName": "spring-boot-test-autoconfigure",
+      "stats": {
+        "totalNumberOfCommits": 85,
+        "totalAddedLines": 162,
+        "totalDeletedLines": 104,
+        "totalCommitsSize": 266,
+        "numberOfDaysForStats": 159,
+        "averageCommitsPerDay": 0.53,
+        "averageSizePerCommit": 3.13
+      },
+      "commitsByDay": [
+        {
+          "date": "2017-11-01",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 0,
+          "totalSize": 2
+        },
+        {
+          "date": "2017-10-24",
+          "numberOfCommits": 2,
+          "addedLines": 8,
+          "deletedLines": 6,
+          "totalSize": 14
+        },
+        {
+          "date": "2017-10-20",
+          "numberOfCommits": 1,
+          "addedLines": 15,
+          "deletedLines": 1,
+          "totalSize": 16
+        },
+        {
+          "date": "2017-10-17",
+          "numberOfCommits": 1,
+          "addedLines": 8,
+          "deletedLines": 9,
+          "totalSize": 17
+        },
+        {
+          "date": "2017-10-10",
+          "numberOfCommits": 76,
+          "addedLines": 76,
+          "deletedLines": 76,
+          "totalSize": 152
+        },
+        {
+          "date": "2017-10-09",
+          "numberOfCommits": 3,
+          "addedLines": 51,
+          "deletedLines": 5,
+          "totalSize": 56
+        },
+        {
+          "date": "2017-05-31",
+          "numberOfCommits": 1,
+          "addedLines": 2,
+          "deletedLines": 7,
+          "totalSize": 9
+        }
+      ]
+    }
+  ]
+}
