@@ -14,7 +14,7 @@ github_username:  AvaliaSystems
 
 # Build settings
 destination: public/_site
-source: src
+source: .
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
