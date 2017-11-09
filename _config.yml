@@ -2,10 +2,9 @@
 title: Avalia Stories
 header-img: img/home-bg.jpg
 email: miguel@avalia.systems
-copyright_name: Your/Project/Corporate Name
 description: "Stories written by Avalia"
 baseurl: ""
-url: "http://www.avalia.io/Stories/"
+url: "http://www.avalia.io/"
 github_username:  AvaliaSystems
 
 # Google Analytics
@@ -13,8 +12,6 @@ github_username:  AvaliaSystems
 # google_tracking_id:
 
 # Build settings
-destination: public/_site
-source: .
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
