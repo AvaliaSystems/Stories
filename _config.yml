@@ -3,8 +3,8 @@ title: Avalia Stories
 header-img: img/home-bg.jpg
 email: miguel@avalia.systems
 description: "Stories written by Avalia"
-baseurl: "/Teaching-HEIGVD-TWEB-2017-Stories"
-url: "https://softeng-heigvd.github.io"
+baseurl: "/Stories"
+url: "https://avaliasystems.github.io"
 github_username:  AvaliaSystems
 
 # Google Analytics
