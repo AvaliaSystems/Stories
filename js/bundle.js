@@ -25842,10 +25842,10 @@ var _lineChart2 = _interopRequireDefault(_lineChart);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var generalCommitsChart = new _generalCommitsChart2.default('/Teaching-HEIGVD-TWEB-2017-Stories/data/commits-stats.json'); /* eslint no-unused-vars: 0 */
+var generalCommitsChart = new _generalCommitsChart2.default('/Stories/data/commits-stats.json'); /* eslint no-unused-vars: 0 */
 
-var modulesChart = new _modulesChart2.default('/Teaching-HEIGVD-TWEB-2017-Stories/data/modules-stats.json');
-var lineChart = new _lineChart2.default('/Teaching-HEIGVD-TWEB-2017-Stories/data/commits-stats.json');
+var modulesChart = new _modulesChart2.default('/Stories/data/modules-stats.json');
+var lineChart = new _lineChart2.default('/Stories/data/commits-stats.json');
 
 /***/ }),
 /* 293 */

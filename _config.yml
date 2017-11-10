@@ -5,7 +5,7 @@ email: miguel@avalia.systems
 description: "Stories written by Avalia"
 baseurl: "/Stories"
 url: "https://avaliasystems.github.io"
-github_username:  AvaliaSystems
+github_username: AvaliaSystems
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
