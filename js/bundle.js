@@ -1,3 +1,6 @@
+---
+note: "this is a liquid template, processed by jekyll, for site.baseurl"
+---
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -25842,10 +25845,16 @@ var _lineChart2 = _interopRequireDefault(_lineChart);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var generalCommitsChart = new _generalCommitsChart2.default('/Stories/data/commits-stats.json'); /* eslint no-unused-vars: 0 */
+// In order to parse a templates-based string, we need to process the JS file with Jekyll.
+// This action is automatically done, thanks to the webpack's WrapperPlugin plugin, which
+// inject the liquid-template note at the top of the generated bundle file.
+// If you are curious about it, have a look at the root's webpack.config.js file.
+var commitsStatsFile = "{{ '/data/commits-stats.json' | prepend: site.baseurl }}"; /* eslint no-unused-vars: 0 */
 
-var modulesChart = new _modulesChart2.default('/Stories/data/modules-stats.json');
-var lineChart = new _lineChart2.default('/Stories/data/commits-stats.json');
+
+var generalCommitsChart = new _generalCommitsChart2.default(commitsStatsFile);
+var modulesChart = new _modulesChart2.default("{{ '/data/modules-stats.json' | prepend: site.baseurl }}");
+var lineChart = new _lineChart2.default(commitsStatsFile);
 
 /***/ }),
 /* 293 */

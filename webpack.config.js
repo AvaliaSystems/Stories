@@ -1,3 +1,4 @@
+const WrapperPlugin = require('wrapper-webpack-plugin');
 const path = require('path');
 
 module.exports = {
@@ -20,4 +21,9 @@ module.exports = {
       },
     ],
   },
+  plugins: [
+    new WrapperPlugin({
+      header: '---\nnote: "this is a liquid template, processed by jekyll, for site.baseurl"\n---\n',
+    }),
+  ],
 };

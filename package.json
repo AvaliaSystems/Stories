@@ -14,7 +14,7 @@
         "grunt-contrib-uglify": "~0.5.1",
         "grunt-contrib-watch": "~0.6.1"
     },
-    "scripts" : {
+    "scripts": {
         "start": "jekyll s -w | webpack -w"
     },
     "repository": {
@@ -29,6 +29,7 @@
         "eslint": "^4.9.0",
         "moment": "^2.19.1",
         "superagent": "^3.7.0",
-        "webpack": "^3.8.1"
+        "webpack": "^3.8.1",
+        "wrapper-webpack-plugin": "^1.0.0"
     }
 }
