@@ -25842,10 +25842,10 @@ var _lineChart2 = _interopRequireDefault(_lineChart);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var generalCommitsChart = new _generalCommitsChart2.default('/data/commits-stats.json'); /* eslint no-unused-vars: 0 */
+var generalCommitsChart = new _generalCommitsChart2.default('/Teaching-HEIGVD-TWEB-2017-Stories/data/commits-stats.json'); /* eslint no-unused-vars: 0 */
 
-var modulesChart = new _modulesChart2.default('/data/modules-stats.json');
-var lineChart = new _lineChart2.default('/data/commits-stats.json');
+var modulesChart = new _modulesChart2.default('/Teaching-HEIGVD-TWEB-2017-Stories/data/modules-stats.json');
+var lineChart = new _lineChart2.default('/Teaching-HEIGVD-TWEB-2017-Stories/data/commits-stats.json');
 
 /***/ }),
 /* 293 */
@@ -25900,7 +25900,7 @@ var GeneralCommitsChart = function (_SliderChart) {
         // Get the data
         d3.json(_this2.dataFileName, function (error, data) {
           if (error) {
-            throw new Error(error);
+            throw error;
           } else {
             var dataWithinGap = {
               projects: []

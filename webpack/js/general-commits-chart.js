@@ -21,7 +21,7 @@ class GeneralCommitsChart extends SliderChart {
       // Get the data
       d3.json(this.dataFileName, (error, data) => {
         if (error) {
-          throw new Error(error);
+          throw error;
         } else {
           const dataWithinGap = {
             projects: [],
